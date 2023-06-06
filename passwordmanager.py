@@ -31,7 +31,7 @@ class PasswordManager:
                 print("Invalid choice. Please try again.")
 
     def display_menu(self):
-        print("\n=== Password Manager Menu ===")
+        print("\n=== Password Manager Login Menu ===")
         print("1. Login")
         print("2. Sign Up")
         print("3. Quit")
@@ -98,7 +98,7 @@ class PasswordManager:
                 print("Invalid choice. Please try again.")
 
     def display_password_manager_menu(self):
-        print("\n=== Password Manager Menu ===")
+        print("\n=== Password Manager User Menu ===")
         print("1. View Passwords")
         print("2. Add Password")
         print("3. Remove Password")
